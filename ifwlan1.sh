@@ -1,3 +1,3 @@
 #/bin/sh
 
-ifconfig wlan1 down
+ifconfig wlan1mon down
